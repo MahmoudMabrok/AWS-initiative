@@ -1,4 +1,7 @@
 # All-WE-STAND (AWS) initiative
+[![HitCount](http://hits.dwyl.com/MahmoudMabrok/AWS-initiative.svg)](http://hits.dwyl.com/MahmoudMabrok/AWS-initiative)
+
+
 hello All developers around world, this repo is to help developer(win-win situation) to share their work and ask other to help them with: 
 - code review 
 - adding feature
