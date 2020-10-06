@@ -6,18 +6,18 @@ hello All developers around world, this repo is to help developer(win-win situat
 - adding feature
 - test code 
 - create api to Mobile App
-- redsign app (as graphic design)
+- re-design app (as graphic design)
 
 # Who can benefit from this 
-- Developer which his code is reviewed or feature implemented.  
+- Developer whose code is reviewed or feature implemented.  
 - Mobile developer who need simple api to his app.  
 - Backend developer who want to practice and see his work being consumed by other and get real-life experience
 - Tester who will test app and practice. 
-- Designer who will find a real app with specs so he ca practice also make portifiolo
+- Designer who will find a real app with specs so he can practice, and make portifiolo
 
 # Process 
-- each developer will create a issue here with his project and specify type of help (this will be done with help of labels)
-- then anYone want to participate WILL respond and start help. 
+- each developer will create an issue here with his project and specify type of help (this will be done with help of labels)
+- then anyone want to participate will respond and start to help. 
 
 # Labels 
-It will be used to facilate the process so developer(who need help) add it to issue so helpers know what you need. 
+It will be used to facilitate the process so developer(who need help) add it to issue so helpers know what you need. 
